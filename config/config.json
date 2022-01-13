@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sgnd",
-    "password": "sgnd",
+    "username": "root",
+    "password": "root",
     "database": "housy",
-    "host": "127.0.0.1",
+    "host": "10.243.16.104",
     "dialect": "mysql"
   },
   "test": {
